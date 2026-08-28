@@ -24,7 +24,7 @@ What is here comes out of that pair of vantage points.
 | Project | What it is |
 |---|---|
 | [hm-panelizer](https://github.com/halfmarble/hm-panelizer) | A GUI PCB panelizer and Gerber viewer for KiCad users. Python and Kivy. |
-| [SteadyHandTool](https://github.com/gerard-hm/steady-hand-tool) | An open-hardware SMD assembly stabilizer for precision work when hand tremor makes it difficult. CERN-OHL-S-2.0. |
+| [SteadyHandTool](https://github.com/gerard-hm/SteadyHandTool) | An open-hardware SMD assembly stabilizer for precision work when hand tremor makes it difficult. CERN-OHL-S-2.0. |
 | [HalfmarbleKit](https://github.com/halfmarble/HalfmarbleKit) | The shared iOS and tvOS layer behind our apps: audio host, StoreKit unlock, menu chrome, brand. |
 | [SteadyHeartBeat](https://github.com/halfmarble/SteadyHeartBeat) | Speaks your live heart rate aloud through AirPods, entirely on-device. |
 | [upMonitor](https://github.com/halfmarble/upMonitor) | A small CPU and process monitor for macOS. |
